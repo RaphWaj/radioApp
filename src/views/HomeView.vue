@@ -9,7 +9,7 @@
               style="background-image: url('https://images.unsplash.com/photo-1510872195213-e4d15202df26?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cmFkaW8lMjB0b3dlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500')">
               <h4 class="font-medium leading-tight text-2xl mt-0 mb-2 text-blue-600 text-center">Radio Amateurs of Canada practice quizz app</h4>
               <div class="text-center">
-            <p>This tesst provides example questions that may appear on your RAC license test. Please pick your prefered language and difficulty. Good luck testing your knowledge!
+            <p>This test provides example questions that may appear on your RAC license test. Please pick your prefered language and difficulty. Good luck testing your knowledge!
             </p>
             <hr>
             <p>Ce test fournit des exemples de questions qui peuvent apparaître sur votre test de licence RAC. Veuillez choisir la langue et la difficulté de votre choix. Bonne chance pour tester vos connaissances !</p>
